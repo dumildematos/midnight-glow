@@ -3,7 +3,18 @@
   "displayName": "Midnight Glow",
   "description": "Embrace the soothing elegance of MidnightGlow, where the darkness meets a gentle illumination. This theme offers a harmonious blend of deep, midnight hues with subtle glowing accents, creating an atmosphere of tranquility and focus.",
   "publisher": "dumildematos",
-  "version": "0.0.1",
+  "icon": "./icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dumildematos/midnight-glow"
+  },
+  "keywords": [
+    "dark theme",
+    "dark mode",
+    "midnight theme",
+    "midnight glow"
+  ],
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -13,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "dumildematos",
+        "label": "MidnightGlow",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-glow-color-theme.json"
       }

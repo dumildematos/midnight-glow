@@ -1,16 +1,30 @@
-# midnight-glow README
+# MidnightGlow Theme for Visual Studio Code
 
-## Working with Markdown
+![MidnightGlow Preview](preview.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Embrace the soothing elegance of MidnightGlow, where the darkness meets a gentle illumination. This theme offers a harmonious blend of deep, midnight hues with subtle glowing accents, creating an atmosphere of tranquility and focus. Whether you're coding late into the night or diving into a complex project, let MidnightGlow guide you with its soft radiance, making your coding experience both comfortable and captivating.
 
-## For more information
+## Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Dark, midnight background for reduced eye strain
+- Soft glowing accents for better readability
+- Harmonious color palette for a tranquil coding experience
 
-**Enjoy!**
+## Installation
+
+1. Open **Extensions** sidebar panel in Visual Studio Code.
+2. Search for **MidnightGlow**.
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Go to **File > Preferences > Color Theme** and choose **MidnightGlow**.
+
+## Feedback
+
+If you have any suggestions, issues, or feedback, feel free to [open an issue](https://github.com/dumildematos/midnight-glow/issues).
+
+## License
+
+This theme is licensed under the [MIT License](LICENSE).
+
