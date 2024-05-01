@@ -1,7 +1,7 @@
 # MidnightGlow Theme for Visual Studio Code
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/dumildematos/midnight-glow/master/assets/banner.png" width="300">
+<img src="./assets/banner.png" width="300">
 </div>
 
 <p align="center">
